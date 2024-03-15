@@ -1,3 +1,45 @@
+# [4.4.0-dev.6](https://github.com/ReVanced/revanced-patches/compare/v4.4.0-dev.5...v4.4.0-dev.6) (2024-03-12)
+
+
+### Features
+
+* **Instagram - Hide timeline ads:** Make compatible with latest versions ([a212f29](https://github.com/ReVanced/revanced-patches/commit/a212f29bd33bb5e10f024e058d26e20ee926190b))
+
+# [4.4.0-dev.5](https://github.com/ReVanced/revanced-patches/compare/v4.4.0-dev.4...v4.4.0-dev.5) (2024-03-11)
+
+
+### Features
+
+* **YouTube:** Support version `19.05`, `19.06`, `19.07`, `19.08` and `19.09` ([#2862](https://github.com/ReVanced/revanced-patches/issues/2862)) ([f044dde](https://github.com/ReVanced/revanced-patches/commit/f044dde054861ff16846a6be6287f86fa3afb3d8))
+
+# [4.4.0-dev.4](https://github.com/ReVanced/revanced-patches/compare/v4.4.0-dev.3...v4.4.0-dev.4) (2024-03-11)
+
+
+### Features
+
+* **YouTube :** Remove `HDR auto brightness` patch ([#2863](https://github.com/ReVanced/revanced-patches/issues/2863)) ([b4c7bf4](https://github.com/ReVanced/revanced-patches/commit/b4c7bf48084184e5f031f7f5139a9a29341d8ebf))
+
+# [4.4.0-dev.3](https://github.com/ReVanced/revanced-patches/compare/v4.4.0-dev.2...v4.4.0-dev.3) (2024-03-08)
+
+
+### Bug Fixes
+
+* **YouTube - Downloads:** Use new task context ([#2841](https://github.com/ReVanced/revanced-patches/issues/2841)) ([6d88cb4](https://github.com/ReVanced/revanced-patches/commit/6d88cb49ec739700866290babcba5fb3032dbced))
+
+# [4.4.0-dev.2](https://github.com/ReVanced/revanced-patches/compare/v4.4.0-dev.1...v4.4.0-dev.2) (2024-03-04)
+
+
+### Features
+
+* **YouTube - External downloader:** Add ability to use in-app download button ([d900011](https://github.com/ReVanced/revanced-patches/commit/d9000113a905c14f8409aa75008f1ef6a1aecd0c))
+
+# [4.4.0-dev.1](https://github.com/ReVanced/revanced-patches/compare/v4.3.0...v4.4.0-dev.1) (2024-03-04)
+
+
+### Features
+
+* **YouTube Vanced:** Remove `Hide ads` patch ([87887e4](https://github.com/ReVanced/revanced-patches/commit/87887e4163dd9e242209f4d0fefb415f9bc7ca75))
+
 # [4.3.0](https://github.com/ReVanced/revanced-patches/compare/v4.2.0...v4.3.0) (2024-03-02)
 
 

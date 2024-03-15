@@ -21,7 +21,7 @@ import app.revanced.util.copyResources
         AddResourcesPatch::class,
     ],
 )
-internal object ExternalDownloadsResourcePatch : ResourcePatch() {
+internal object DownloadsResourcePatch : ResourcePatch() {
     override fun execute(context: ResourceContext) {
         AddResourcesPatch(this::class)
 
@@ -31,6 +31,7 @@ internal object ExternalDownloadsResourcePatch : ResourcePatch() {
                 sorting = Sorting.UNSORTED,
                 preferences = setOf(
                     SwitchPreference("revanced_external_downloader"),
+                    SwitchPreference("revanced_external_downloader_action_button"),
                     TextPreference("revanced_external_downloader_name", inputType = InputType.TEXT),
                 ),
             ),
